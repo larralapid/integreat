@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_web_service_transaction" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_payload_data_structure</element>
+            <list_id display_value="u_web_service_transaction" element="NULL" name="u_web_service_transaction" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2255ae9ddbae20102682c7ec0b961941</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>sscott</sys_created_by>
+            <sys_created_on>2021-02-24 19:12:34</sys_created_on>
+            <sys_id>e255ae9ddbae20102682c7ec0b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sscott</sys_updated_by>
+            <sys_updated_on>2021-02-24 19:12:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_payload_string</element>
+            <list_id display_value="u_web_service_transaction" element="NULL" name="u_web_service_transaction" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2255ae9ddbae20102682c7ec0b961941</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>sscott</sys_created_by>
+            <sys_created_on>2021-02-24 19:12:34</sys_created_on>
+            <sys_id>ea55ae9ddbae20102682c7ec0b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sscott</sys_updated_by>
+            <sys_updated_on>2021-02-24 19:12:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_web_service_transaction</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sscott</sys_created_by>
+            <sys_created_on>2021-02-24 19:12:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2255ae9ddbae20102682c7ec0b961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_web_service_transaction</sys_name>
+            <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+            <sys_update_name>sys_ui_list_u_web_service_transaction_null</sys_update_name>
+            <sys_updated_by>sscott</sys_updated_by>
+            <sys_updated_on>2021-02-24 19:12:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
