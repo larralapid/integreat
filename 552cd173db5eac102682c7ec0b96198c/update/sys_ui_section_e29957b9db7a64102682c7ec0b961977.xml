@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e29957b9db7a64102682c7ec0b961977" sys_domain="global" table="u_web_service_transaction" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <position>0</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>fbefebfddbfa64102682c7ec0b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payload_data_structure</element>
+            <position>1</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>73efebfddbfa64102682c7ec0b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payload_string</element>
+            <position>2</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>f7efebfddbfa64102682c7ec0b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ran_as</element>
+            <position>3</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>7fefebfddbfa64102682c7ec0b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_trans_obj</element>
+            <position>4</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>f3efebfddbfa64102682c7ec0b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_direction</element>
+            <position>5</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>7befebfddbfa64102682c7ec0b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rule</element>
+            <position>6</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>ffefebfddbfa64102682c7ec0b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_url</element>
+            <position>7</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>77efebfddbfa64102682c7ec0b961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_resource</element>
+            <position>8</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:11:05</sys_created_on>
+            <sys_id>fbefebfddbfa64102682c7ec0b961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:11:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_transaction_code</element>
+            <position>9</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 00:48:48</sys_created_on>
+            <sys_id>1898777ddb3e64102682c7ec0b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 00:48:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_action</element>
+            <position>10</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 03:06:18</sys_created_on>
+            <sys_id>6208584adbfe64102682c7ec0b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 03:06:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_headers</element>
+            <position>11</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 03:20:07</sys_created_on>
+            <sys_id>853bd08edbfe64102682c7ec0b961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 03:20:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payload</element>
+            <position>12</position>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-11 03:30:56</sys_created_on>
+            <sys_id>93add082db32a4102682c7ec0b96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_web_service_transaction" sys_domain="global" view="Default view">e29957b9db7a64102682c7ec0b961977</sys_ui_section>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-11 03:30:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_web_service_transaction</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>llapid</sys_created_by>
+            <sys_created_on>2021-03-10 22:33:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e29957b9db7a64102682c7ec0b961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_web_service_transaction</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+            <sys_update_name>sys_ui_section_e29957b9db7a64102682c7ec0b961977</sys_update_name>
+            <sys_updated_by>llapid</sys_updated_by>
+            <sys_updated_on>2021-03-10 22:33:31</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

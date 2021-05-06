@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Record Map" max_length="40" name="u_record_map" sizeclass="0" type="collection"/>
+</database>

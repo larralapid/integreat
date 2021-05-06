@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>global.ExeTrans</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>Functions to process a web service transaction's associated transaction rule for staging. </description>
+        <name>ExeTrans</name>
+        <script><![CDATA[var ExeTrans = Class.create();
+ExeTrans.prototype = {
+    initialize: function() {},
+    logRequest: function(headers, body, params) {
+        var wsTrans = new GlideRecord('u_web_service_transaction');
+        wsTrans.initialize();
+        wsTrans.u_direction = 'Inbound';
+		wsTrans.u_payload = body;
+        wsTrans.u_headers = JSON.stringify(headers);
+        wsTrans.u_action = JSON.stringify(params);
+        var transaction = wsTrans.insert();
+    },
+
+    type: 'ExeTrans'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>llapid</sys_created_by>
+        <sys_created_on>2021-03-11 01:31:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>71d1080adb7e64102682c7ec0b961978</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>ExeTrans</sys_name>
+        <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+        <sys_update_name>sys_script_include_71d1080adb7e64102682c7ec0b961978</sys_update_name>
+        <sys_updated_by>llapid</sys_updated_by>
+        <sys_updated_on>2021-03-11 03:37:29</sys_updated_on>
+    </sys_script_include>
+</record_update>

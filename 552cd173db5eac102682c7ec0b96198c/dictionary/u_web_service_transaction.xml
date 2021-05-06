@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Web Service Transaction" max_length="40" name="u_web_service_transaction" sizeclass="0" type="collection">
-        <element attributes="json_view=true" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Payload Data Structure" max_length="800" name="u_payload_data_structure" type="data_structure"/>
-        <element label="Payload String" max_length="500000" name="u_payload_string" type="string"/>
+    <element label="Web Service Transaction" max_length="40" name="u_web_service_transaction" sizeclass="43" type="collection">
+        <element label="Action" max_length="40" name="u_action" type="string"/>
+        <element label="Direction" max_length="40" name="u_direction" type="string"/>
+        <element attributes="json_view=true" label="Headers" max_length="500" name="u_headers" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="json_view=true" label="Payload" max_length="500000" name="u_payload" type="string"/>
+        <element label="Ran as" max_length="32" name="u_ran_as" reference="sys_user" type="reference"/>
+        <element label="Request URL" max_length="600" name="u_request_url" type="string"/>
+        <element label="Resource" max_length="32" name="u_resource" reference="sys_ws_operation" type="reference"/>
+        <index name="index">
+            <element name="u_ran_as"/>
+        </index>
+        <index name="index2">
+            <element name="u_resource"/>
+        </index>
     </element>
 </database>

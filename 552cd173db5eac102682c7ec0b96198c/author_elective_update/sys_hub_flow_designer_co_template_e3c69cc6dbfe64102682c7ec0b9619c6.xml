@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_designer_co_template">
+    <sys_hub_flow_designer_co_template action="DELETE">
+        <active>true</active>
+        <complex_definition/>
+        <sys_class_name>sys_hub_flow_designer_co_template</sys_class_name>
+        <sys_created_by>llapid</sys_created_by>
+        <sys_created_on>2021-03-11 03:01:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e3c69cc6dbfe64102682c7ec0b9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Metadata</sys_name>
+        <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+        <sys_update_name>sys_hub_flow_designer_co_template_e3c69cc6dbfe64102682c7ec0b9619c6</sys_update_name>
+        <sys_updated_by>llapid</sys_updated_by>
+        <sys_updated_on>2021-03-11 03:01:13</sys_updated_on>
+        <template_label>Event Metadata</template_label>
+        <template_name>EventMetadata</template_name>
+    </sys_hub_flow_designer_co_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="integreat">552cd173db5eac102682c7ec0b96198c</application>
+        <file_path/>
+        <instance_id>809873e6db633a84536ad5b0cf9619ed</instance_id>
+        <instance_name>apprissdev</instance_name>
+        <name>sys_hub_flow_designer_co_template_e3c69cc6dbfe64102682c7ec0b9619c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_designer_co_template"><sys_hub_flow_designer_co_template action="INSERT_OR_UPDATE"><active>true</active><complex_definition/><sys_class_name>sys_hub_flow_designer_co_template</sys_class_name><sys_created_by>llapid</sys_created_by><sys_created_on>2021-03-11 03:01:13</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e3c69cc6dbfe64102682c7ec0b9619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Event Metadata</sys_name><sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope><sys_update_name>sys_hub_flow_designer_co_template_e3c69cc6dbfe64102682c7ec0b9619c6</sys_update_name><sys_updated_by>llapid</sys_updated_by><sys_updated_on>2021-03-11 03:01:13</sys_updated_on><template_label>Event Metadata</template_label><template_name>EventMetadata</template_name></sys_hub_flow_designer_co_template></record_update>]]></payload>
+        <payload_hash>117639966</payload_hash>
+        <record_name>Event Metadata</record_name>
+        <reverted_from/>
+        <source>84409ec7db5a2c102682c7ec0b961919</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>llapid</sys_created_by>
+        <sys_created_on>2021-03-11 03:01:13</sys_created_on>
+        <sys_id>4ce6d4c6dbfe64102682c7ec0b9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781f3b28320000001</sys_recorded_at>
+        <sys_updated_by>llapid</sys_updated_by>
+        <sys_updated_on>2021-03-11 03:01:13</sys_updated_on>
+        <type>Flow Designer Complex Object Templates</type>
+        <update_guid>44e6d4c621fe64104704ab953e8889b9</update_guid>
+        <update_guid_history>44e6d4c621fe64104704ab953e8889b9:117639966</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>llapid</sys_created_by>
+        <sys_created_on>2021-03-11 03:01:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_hub_flow_designer_co_template">sys_hub_flow_designer_co_template</sys_db_object>
+        <sys_id>7895e7caa55c47afadfc296364083481</sys_id>
+        <sys_metadata>e3c69cc6dbfe64102682c7ec0b9619c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Metadata</sys_name>
+        <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+        <sys_scope_delete display_value="">56b522648f5a4230a900626c1fdc2e84</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_designer_co_template_e3c69cc6dbfe64102682c7ec0b9619c6</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_designer_co_template_e3c69cc6dbfe64102682c7ec0b9619c6">4ce6d4c6dbfe64102682c7ec0b9619b9</sys_update_version>
+        <sys_updated_by>llapid</sys_updated_by>
+        <sys_updated_on>2021-03-11 03:01:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

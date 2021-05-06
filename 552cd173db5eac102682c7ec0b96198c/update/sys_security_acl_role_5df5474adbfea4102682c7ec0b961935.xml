@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>llapid</sys_created_by>
+        <sys_created_on>2021-03-11 15:46:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5df5474adbfea4102682c7ec0b961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_record_map.u_record_map_user</sys_name>
+        <sys_package display_value="integreat" source="552cd173db5eac102682c7ec0b96198c">552cd173db5eac102682c7ec0b96198c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="integreat">552cd173db5eac102682c7ec0b96198c</sys_scope>
+        <sys_security_acl display_value="u_record_map">05f5474adbfea4102682c7ec0b961923</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5df5474adbfea4102682c7ec0b961935</sys_update_name>
+        <sys_updated_by>llapid</sys_updated_by>
+        <sys_updated_on>2021-03-11 15:46:09</sys_updated_on>
+        <sys_user_role display_value="u_record_map_user" name="u_record_map_user">f0f5cbc6dbfea4102682c7ec0b96196e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

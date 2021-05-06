@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Transaction Data Lookup" max_length="40" name="u_dl_transaction" sizeclass="1" type="collection">
+        <element default="3" label="Code" max_length="40" name="u_code" type="string"/>
+        <element default="40" label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Script" max_length="8000" name="u_script" type="script"/>
+    </element>
+</database>
